@@ -1,4 +1,5 @@
-👋 Hi, I’m Pratik Katad
+--👋 Hi, I’m Pratik Katad
+
 Aspiring Data Analyst || Excel || SQL || Power BI || Python
 
 
